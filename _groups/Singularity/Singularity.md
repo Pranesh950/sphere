@@ -20,89 +20,85 @@ tags:
 
 # Singularity Club
 
-**"Ciencia abierta, tecnología social"**
+**"Open Science, Social Technology"**
 
-> Comunidad independiente y descentralizada de personas que desarrollan soluciones tecnológicas de código abierto para impactar positivamente a sus comunidades.
+> An independent, decentralized community of people developing open-source technological solutions to positively impact their communities.
 
+## 📌 What is Singularity Club?
 
-## 📌 ¿Qué es Singularity Club?
+**Singularity** is an interdisciplinary collective with no institutional or governmental affiliation, focused on developing technological, scientific, and social projects with local impact. Our mission is to foster community-driven innovation through open science, free technological transfer, and self-directed learning.
 
-**Singularity ** es un colectivo interdisciplinario sin afiliación institucional ni gubernamental, enfocado en el desarrollo de proyectos tecnológicos, científicos y sociales con impacto local. Nuestra misión es impulsar la innovación de base comunitaria mediante ciencia abierta, transferencia tecnológica libre, y formación autodidacta.
+We operate under a **collaborative, scalable, and decentralized** model: each local node identifies challenges and opportunities in its environment, developing projects or activities aligned with our principles.
 
-Trabajamos bajo un modelo **colaborativo, escalable y descentralizado**: cada nodo local identifica problemáticas y oportunidades en su entorno, desarrollando proyectos o actividades alineadas con nuestros principios.
+## 🌍 Principles
 
-## 🌍 Principios
+- **Open science and technology**
+- **Community engagement**
+- **Accessible education**
+- **Interdisciplinary collaboration**
+- **Social impact**
+- **Non-profit**
 
-- **Ciencia y tecnología abierta**
-- **Compromiso comunitario**
-- **Educación accesible**
-- **Colaboración interdisciplinaria**
-- **Impacto social**
-- **No fines de lucro**
+## 🔧 Community Structure
 
-## 🔧 Estructura de la comunidad
+Our activities are organized into five main areas:
 
-Dividimos nuestras actividades en cinco áreas principales:
+### 1. Social
+- Gatherings and events among members.
+- Support, charity, and volunteer activities.
 
-### 1. Sociales
-- Convivencias y encuentros entre miembros.
-- Actividades de apoyo, beneficencia y voluntariado.
+### 2. Innovation and Technology
+- Development of high-impact projects for open technological transfer.
+- Participation in hackathons such as NASA Space Apps.
+- Publication of developments on open platforms.
 
-### 2. Innovación y tecnología
-- Desarrollo de proyectos de alto impacto para transferencia tecnológica abierta.
-- Participación en hackathones como NASA Space Apps.
-- Publicación de desarrollos en plataformas abiertas.
+### 3. Economic
+- Organization of courses, workshops, and self-funded activities.
+- Fundraising for social projects and operations.
 
-### 3. Económicas
-- Organización de cursos, talleres y actividades autofinanciables.
-- Recaudación de fondos para proyectos sociales y operativos.
+### 4. Outreach
+- Creation of content on social media (articles, videos, educational dissemination).
+- Admission calls.
 
-### 4. Difusión
-- Generación de contenido en redes sociales (notas, videos, divulgación).
-- Convocatorias de admisión.
+### 5. Internal
+- Mentorship, workshops, technical training for members.
+- Organization by local nodes with autonomous leadership.
 
-### 5. Internas
-- Mentorías, talleres, capacitación y formación técnica de miembros.
-- Organización por nodos locales con liderazgo autónomo.
+## 🌐 Expansion and Regional Nodes
 
+Our base is in León, Guanajuato, but we aim to expand using a **regional node model**.
 
+Members joining from other cities can open their own node to address local challenges. Node leaders are expected to create an annual work plan based on:
+- Community impact.
+- Organized activities.
+- Projects developed or implemented.
 
-## 🌐 Expansión y nodos regionales
+## 👤 Who Can Join?
 
-Nuestra base está en León, Guanajuato, pero buscamos expandirnos mediante un modelo de **nodos regionales**.
+We welcome people over 18 years old who are committed, socially-minded, and have training or interest in one of the following areas:
+- Technology (software, hardware, electronics, AI)
+- Administration, finance, or social economy
+- Social sciences and humanities
+- Communication, design, or digital media
 
-Cada miembro que se integra desde otra ciudad puede abrir su propio nodo para atender las problemáticas locales. Los líderes de cada nodo deberán realizar un  plan de trabajo anualmente con base en:
-- Impacto comunitario.
-- Actividades organizadas.
-- Proyectos desarrollados o implementados.
+## 📥 How to Join?
 
+We launch **bimonthly calls for new members**.  
+Check the upcoming dates on our [📅 calls page](https://singularitymx.org/) to stay updated.
 
+## 🔗 Social Media
 
-## 👤 ¿Quién puede unirse?
-
-Buscamos personas mayores de 18 años, comprometidas, con vocación social y formación o interés en alguna de estas áreas:
-- Tecnología (software, hardware, electrónica, IA)
-- Administración, finanzas o economía social
-- Ciencias sociales y humanidades
-- Comunicación, diseño o medios digitales
-
-## 📥 ¿Cómo unirte?
-
-Lanzamos **convocatorias bimestrales** para integrar nuevos miembros. La próxima convocatoria será el 10/10/2025
-
-
-## 🔗 Redes sociales
-
-Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
+Follow us to learn about our projects and activities:
 
 - [🌐 Facebook](https://www.facebook.com/Singularity.py/)
 - [🐦 Twitter / X](https://twitter.com/hub_singularity)
 - [💻 GitHub](https://github.com/Singularity-MX)
-- [💻 Sitio Web](https://singularitymx.org/)
+- [💻 Website](https://singularitymx.org/)
 - [💻 Instagram](https://www.instagram.com/singularity.open)
+
 ---
 
-## 👥 Nodos activos
+## 👥 Active Nodes
 
 <table align="center">
   <tr align="center">
@@ -110,8 +106,8 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
       <strong>César Delgado</strong>
       <p>
         <img src="https://avatars.githubusercontent.com/u/112652221?v=4" height="120" alt="César Delgado">
-        <br>Co-fundador
-        <br><strong>León, México</strong>
+        <br>Co-founder
+        <br><strong>León, Mexico</strong>
         <br>
         <a href="https://github.com/cessdel">
           <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" width="40" />
@@ -128,8 +124,8 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
       <strong>Javier Gutiérrez</strong>
       <p>
         <img src="https://avatars.githubusercontent.com/u/50347332?v=4" height="120" alt="Javier Gutiérrez">
-        <br>Co-fundador
-        <br><strong>León, México</strong>
+        <br>Co-founder
+        <br><strong>León, Mexico</strong>
         <br>
         <a href="https://github.com/ReplacedSpace17">
           <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" width="40"/>
@@ -145,23 +141,22 @@ Síguenos en nuestras redes para conocer nuestros proyectos y actividades:
   </tr>
 </table>
 
-|Nodo     |      Región                      |  Estado  | Líderes
-|------------|--------------------------------------|----------|--------|
-|    >_Singularity_Leon   |  León     |   Guanajuato   |  Cesar Delgado / Javier Gutiérrez  |
+|Node     | Region          | State       | Leaders
+|---------|----------------|------------|-----------------------------|
+| >_Singularity_Leon | León | Guanajuato | César Delgado / Javier Gutiérrez |
 
+## 🤝 Collaborate with Us
 
+Do you have a project, technical problem, or social idea that we could help with?
 
-## 🤝 Colabora con nosotros
-
-¿Tienes un proyecto, problema técnico o idea social que podríamos ayudar a resolver?
-
-Contáctanos para colaborar, asesorar o co-crear:  
+Contact us to collaborate, advise, or co-create:  
 📩 replacedspace17@singularitymx.org
 
-## Licencia
+## License
 
-Todos los proyectos publicados por el colectivo están sujetos a licencias de código abierto.
+All projects published by the collective are subject to open-source licenses.
 
-Usamos GNU General Public License (GPL) para el software y CC-BY 4.0 para contenido educativo.
+We use GNU General Public License (GPL) for software and CC-BY 4.0 for educational content.
+
 
 
